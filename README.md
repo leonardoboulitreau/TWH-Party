@@ -3,10 +3,10 @@ Contains the scripts and parameters used to generate the TWH-Party.
 
 ## Setup Environment
 Clone the Repository.
-'''bash
+```bash
 git clone https://github.com/leonardoboulitreau/TWH-Party
 cd TWH-Party
-'''
+```
 
 Enter.
 '''bash
