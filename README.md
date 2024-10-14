@@ -1,5 +1,5 @@
 # TWH-Party
-Contains the scripts and parameters used to generate the TWH-Party.
+Contains the scripts and parameters used to generate the TWH-Party from the TWH dataset.
 
 ## Setup Environment
 Clone the Repository.
