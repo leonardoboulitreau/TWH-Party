@@ -19,7 +19,7 @@ def main():
 
     WAVS_FOLDER = args.wavs_folder
     LIBRIPARTY_PATH = './LibriParty/'
-    RIRS_NOISE_PATH = './RIRS_NOISES/'
+    RIRS_NOISE_PATH = './rirs_noises/'
     out_path = './TWH_PARTY/'
 
     levels = {'low':{'n_party':6, 'X':0.75, 'y':0.10, 'dry':0.55, 'speech_lvl':-3}, 
