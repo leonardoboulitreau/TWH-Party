@@ -13,6 +13,9 @@ Enter.
 pip install -r requirements.txt
 ```
 
+Download the Room Impulse Response and Noise Database from [this link](https://openslr.org/28/) and put it on this repo's root folder.
+Generate the Libriparty dataset following the instructions in [this link](https://github.com/speechbrain/speechbrain/tree/develop/recipes/LibriParty/generate_dataset) and put it on this repo's root folder.
+
 ## TWH-Party
 To generate the TWH party, just download the wav_spk_1 folder available on [this Google Drive](https://drive.google.com/drive/folders/1R-nvdXInAsqvJUuT8EY6fQ0TnbD7jlni?usp=sharing), put it on the project root folder then run:
 ```bash
